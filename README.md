@@ -20,8 +20,14 @@ The following **required** functionality is completed:
 - A Font button to change the font style of all labels in the App.
  
 ## Video Walkthrough
-![572F9828-A4D9-4AEE-ADF2-C8C55E339FCD_1_102_o](https://github.com/user-attachments/assets/8ee025c9-0f97-48ff-9bf5-d1e3fb36be0a)
-
+<div>
+    <a href="https://www.loom.com/share/2172e7d1a0454298a6599b7b53b9e732">
+      <p>Loom Message - 1 February 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2172e7d1a0454298a6599b7b53b9e732">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2172e7d1a0454298a6599b7b53b9e732-6f996a1e792d449b-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 1. Notion App
